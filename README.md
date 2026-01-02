@@ -43,12 +43,13 @@ I offer the complete **Source Code (C/C++ Files)** + **Project Report/Documentat
 To purchase access to the private repository:
 
 1.  **Make a Payment** of **₹3000** to the following UPI ID:
-    > **[INSERT YOUR UPI ID HERE]**
+    > ****
     > *(e.g., yourname@okaxis)*
 
 2.  **Send a Screenshot** of the payment + Your **GitHub Username** to:
-    * **Email:** [INSERT YOUR EMAIL HERE]
-    * **Discord/Telegram:** [INSERT YOUR HANDLE HERE]
+    * **Email:** punit732007@gmail.com
+    * **Discord/Telegram:** <img width="398" height="528" alt="image" src="https://github.com/user-attachments/assets/602753bf-2137-467f-a444-dfd439f58d46" />
+
 
 3.  **Get Access:** Once confirmed, I will add you as a **Collaborator** to the Private Source Code Repository instantly.
 
