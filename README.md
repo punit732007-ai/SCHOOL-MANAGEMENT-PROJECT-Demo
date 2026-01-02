@@ -43,8 +43,7 @@ I offer the complete **Source Code (C/C++ Files)** + **Project Report/Documentat
 To purchase access to the private repository:
 
 1.  **Make a Payment** of **₹3000** to the following UPI ID:
-    > ****
-    > *(e.g., yourname@okaxis)*
+ 
 
 2.  **Send a Screenshot** of the payment + Your **GitHub Username** to:
     * **Email:** punit732007@gmail.com
